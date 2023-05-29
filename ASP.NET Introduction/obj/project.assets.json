@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ibrah\\OneDrive\\Desktop\\ASP.NET Introduction\\ASP.NET Introduction\\ASP.NET Introduction.csproj",
+      "projectUniqueName": "C:\\Users\\ibrah\\OneDrive\\Desktop\\code\\ASP.NET Introduction\\ASP.NET Introduction\\ASP.NET Introduction.csproj",
       "projectName": "ASP.NET Introduction",
-      "projectPath": "C:\\Users\\ibrah\\OneDrive\\Desktop\\ASP.NET Introduction\\ASP.NET Introduction\\ASP.NET Introduction.csproj",
+      "projectPath": "C:\\Users\\ibrah\\OneDrive\\Desktop\\code\\ASP.NET Introduction\\ASP.NET Introduction\\ASP.NET Introduction.csproj",
       "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ibrah\\OneDrive\\Desktop\\ASP.NET Introduction\\ASP.NET Introduction\\obj\\",
+      "outputPath": "C:\\Users\\ibrah\\OneDrive\\Desktop\\code\\ASP.NET Introduction\\ASP.NET Introduction\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ibrah\\AppData\\Roaming\\NuGet\\NuGet.Config",

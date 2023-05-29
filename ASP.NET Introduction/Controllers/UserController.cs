@@ -7,6 +7,11 @@ namespace ASP.NET_Introduction.Controllers
     {
         public ViewResult Index()
         {
+            @ViewBag.Name = "Fatima";
+            @ViewBag.Surname = "Karimova";
+            @ViewBag.Age = 25;
+            @ViewBag.Country = "Azerbaijan";
+            ViewBag.PhoneNumber = 0773000416;
             return View();
         }
     }

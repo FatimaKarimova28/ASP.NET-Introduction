@@ -5,7 +5,7 @@ var app = builder.Build();
 
 app.MapControllerRoute(
     name: "User",
-    pattern: "{controller=user}/{action=index}"
+    pattern: "{controller=user}/{action=index}/{id?}"
 
     );
 
